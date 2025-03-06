@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on "A Non-survey Method to Estimate Japan’s Prefectural
+Non-competitive Import Type Input-Output Table 
+with Scrap and By-products"
+
